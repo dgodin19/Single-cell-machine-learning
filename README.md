@@ -4,4 +4,8 @@ Work in progress ... check back later
 
 ### Figure 1
 
-[Batch effect](batcheffectUMAP.png)
+![Batch effect](batcheffectUMAP.png)
+
+### Figure 2
+
+[PCA assay]
