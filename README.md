@@ -88,7 +88,7 @@ To evaluate the performance of cell type classification, mean accuracies from le
 | scanvi | 0.924              |
 
 
-Confusion matrices for each model (Figures 5–9) illustrate how well cell types were distinguished. While most cell types were classified accurately, all models struggled with certain cell populations, particularly megakaryocytes. Lower representation of megakaryocytes and neutrophils in the dataset led to reduced classification performance for these cell types, as shown by lower F1 scores (Figure 10). Additionally, classification between malignant cells and epithelial cells showed reduced accuracy, likely due to an abundance of lung tissue samples in which epithelial cells are common, causing overlap with malignant cell transcriptomic profiles.
+Confusion matrices for each model (Figures 5–9) illustrate how well cell types were distinguished. While most cell types were classified accurately, all models struggled with certain cell populations, particularly megakaryocytes. Lower representation of megakaryocytes and neutrophils in the dataset led to reduced classification performance for these cell types, as shown by lower F1 scores (Figure 10). Additionally, classification between malignant cells and epithelial cells showed reduced accuracy, likely due to an abundance of lung tissue samples in which epithelial cells are common, which can cause overlap with malignant cell transcriptomic profiles.
 
 ### Figure 5
 
