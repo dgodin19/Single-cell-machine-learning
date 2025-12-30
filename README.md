@@ -4,7 +4,7 @@ This side project explores the application of machine learning techniques to lar
 
 This integrated atlas compiles data from 13 single-cell studies across eight tumor types and normal tissues: breast, colorectal, ovary, lung, liver, skin, uvea, and peripheral blood. Four types of samples are represented in this resource: normal tissue, tumor, lymph node, and blood. Data were generated using three single-cell technologies including: 10x Genomics, Smart-seq2, and inDrop. The collection contains approximately 400,000 cells from 51 donors, and is provided as a preprocessed Scanpy object with detailed cell type annotations.
 
-The objective of this analysis was to evaluate the accuracy of annotated cell type labels using both classical machine learning algorithms and scanVI. Although code from this analysis has not been made public in this repository, the methodological approach and results from this project are intended to demonstrate practical experience in integrating machine learning with high-dimensional biological data.
+The objective of this analysis was to evaluate the accuracy of annotated cell type labels using both classical machine learning algorithms and scanVI. Portions of the code for this analysis were generated with the assistance of AI coding tools, and as such, the code has not been made public in this repository. Instead, the focus is on clearly documenting the methodology, results, and interpretation.
 
 ### Methods
 
