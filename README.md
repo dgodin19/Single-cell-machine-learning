@@ -171,7 +171,7 @@ Rho and p-values caclulated with spearman correlation. There is little to no cor
 
 ### Future directions
 
-The variation in model performance across donors, where classical models showed lower accuracy for some donors and scanVI for others, suggests that combining complementary approaches may help improve overall classification accuracy. Future work could involve the development of ensemble strategies that leverage the strengths of each method. Additionally, further analyses can be performed by subsetting the dataset to increase representation of rare cell types such as neutrophils and megakaryocytes, or by evaluating model performance on subsets less dominated by lung derived cells.
+The variation in model performance across donors, where classical models showed lower accuracy for some donors and scanVI for others, suggests that combining complementary approaches may help improve overall classification accuracy. Future work could involve the development of ensemble strategies that leverage the strengths of each method. Additionally, further analyses can be performed by subsetting the original dataset to increase representation of rare cell types such as neutrophils and megakaryocytes, or by evaluating model performance on subsets less dominated by lung derived cells.
 
 While these steps may increase performance, the precise factors underlying reduced accuracy in certain donors for both classical models and scanVI remain unclear. Expanded exploration of donor specific features or alternative normalization methods may help explain the discrepancy in performance between certain donors. 
 
